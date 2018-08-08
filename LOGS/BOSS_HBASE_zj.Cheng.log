@@ -1,0 +1,404 @@
+[2018-08-08 01:09:25,185] INFO(zj.Cheng): connected to thrift2 at ip=127.0.0.1,port=9090
+[2018-08-08 01:09:25,216] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,216] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000000
+[2018-08-08 01:09:25,242] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,242] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000001
+[2018-08-08 01:09:25,256] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,256] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000002
+[2018-08-08 01:09:25,266] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,267] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000003
+[2018-08-08 01:09:25,277] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,277] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000004
+[2018-08-08 01:09:25,291] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,291] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000005
+[2018-08-08 01:09:25,298] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,298] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000006
+[2018-08-08 01:09:25,309] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,310] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000007
+[2018-08-08 01:09:25,320] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,320] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000008
+[2018-08-08 01:09:25,325] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,326] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000009
+[2018-08-08 01:09:25,336] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,337] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000010
+[2018-08-08 01:09:25,347] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,348] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000011
+[2018-08-08 01:09:25,355] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,356] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000012
+[2018-08-08 01:09:25,363] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,364] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000013
+[2018-08-08 01:09:25,374] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,374] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000014
+[2018-08-08 01:09:25,387] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,387] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000015
+[2018-08-08 01:09:25,393] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,395] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000016
+[2018-08-08 01:09:25,403] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,403] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000017
+[2018-08-08 01:09:25,417] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,418] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000018
+[2018-08-08 01:09:25,423] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,424] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000019
+[2018-08-08 01:09:25,432] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,433] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000020
+[2018-08-08 01:09:25,442] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,442] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000021
+[2018-08-08 01:09:25,454] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,455] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000022
+[2018-08-08 01:09:25,460] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,461] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000023
+[2018-08-08 01:09:25,466] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,467] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000024
+[2018-08-08 01:09:25,483] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,483] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000025
+[2018-08-08 01:09:25,489] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,489] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000026
+[2018-08-08 01:09:25,495] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,496] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000027
+[2018-08-08 01:09:25,503] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,503] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000028
+[2018-08-08 01:09:25,517] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,517] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000029
+[2018-08-08 01:09:25,522] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,523] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000030
+[2018-08-08 01:09:25,532] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,532] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000031
+[2018-08-08 01:09:25,546] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,547] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000032
+[2018-08-08 01:09:25,554] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,554] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000033
+[2018-08-08 01:09:25,560] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,561] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000034
+[2018-08-08 01:09:25,566] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,566] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000035
+[2018-08-08 01:09:25,582] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,582] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000036
+[2018-08-08 01:09:25,588] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,588] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000037
+[2018-08-08 01:09:25,593] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,594] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000038
+[2018-08-08 01:09:25,612] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,613] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000039
+[2018-08-08 01:09:25,625] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,625] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000040
+[2018-08-08 01:09:25,639] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,640] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000041
+[2018-08-08 01:09:25,652] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,652] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000042
+[2018-08-08 01:09:25,672] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,672] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000043
+[2018-08-08 01:09:25,681] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,682] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000044
+[2018-08-08 01:09:25,691] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,691] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000045
+[2018-08-08 01:09:25,705] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,706] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000046
+[2018-08-08 01:09:25,718] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,719] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000047
+[2018-08-08 01:09:25,729] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,730] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000048
+[2018-08-08 01:09:25,739] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,740] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000049
+[2018-08-08 01:09:25,746] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,747] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000050
+[2018-08-08 01:09:25,763] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,764] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000051
+[2018-08-08 01:09:25,769] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,770] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000052
+[2018-08-08 01:09:25,780] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,781] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000053
+[2018-08-08 01:09:25,795] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,795] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000054
+[2018-08-08 01:09:25,800] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,800] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000055
+[2018-08-08 01:09:25,811] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,812] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000056
+[2018-08-08 01:09:25,818] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,818] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000057
+[2018-08-08 01:09:25,833] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,834] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000058
+[2018-08-08 01:09:25,839] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,840] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000059
+[2018-08-08 01:09:25,847] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,847] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000060
+[2018-08-08 01:09:25,856] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,860] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000061
+[2018-08-08 01:09:25,870] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,870] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000062
+[2018-08-08 01:09:25,879] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,880] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000063
+[2018-08-08 01:09:25,885] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,885] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000064
+[2018-08-08 01:09:25,899] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,899] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000065
+[2018-08-08 01:09:25,907] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,909] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000066
+[2018-08-08 01:09:25,916] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,916] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000067
+[2018-08-08 01:09:25,929] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,929] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000068
+[2018-08-08 01:09:25,939] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,939] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000069
+[2018-08-08 01:09:25,957] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,958] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000070
+[2018-08-08 01:09:25,964] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,964] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000071
+[2018-08-08 01:09:25,974] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,975] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000072
+[2018-08-08 01:09:25,989] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:25,990] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000073
+[2018-08-08 01:09:25,999] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,000] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000074
+[2018-08-08 01:09:26,005] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,006] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000075
+[2018-08-08 01:09:26,023] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,024] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000076
+[2018-08-08 01:09:26,031] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,031] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000077
+[2018-08-08 01:09:26,037] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,037] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000078
+[2018-08-08 01:09:26,048] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,048] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000079
+[2018-08-08 01:09:26,061] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,062] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000080
+[2018-08-08 01:09:26,067] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,067] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000081
+[2018-08-08 01:09:26,076] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,078] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000082
+[2018-08-08 01:09:26,083] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,086] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000083
+[2018-08-08 01:09:26,096] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,097] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000084
+[2018-08-08 01:09:26,110] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,110] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000085
+[2018-08-08 01:09:26,122] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,122] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000086
+[2018-08-08 01:09:26,142] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,142] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000087
+[2018-08-08 01:09:26,153] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,153] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000088
+[2018-08-08 01:09:26,162] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,163] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000089
+[2018-08-08 01:09:26,176] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,178] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000090
+[2018-08-08 01:09:26,194] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,194] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000091
+[2018-08-08 01:09:26,209] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,210] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000092
+[2018-08-08 01:09:26,219] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,220] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000093
+[2018-08-08 01:09:26,231] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,231] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000094
+[2018-08-08 01:09:26,254] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,255] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000095
+[2018-08-08 01:09:26,263] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,264] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000096
+[2018-08-08 01:09:26,280] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,280] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000097
+[2018-08-08 01:09:26,290] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,290] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000098
+[2018-08-08 01:09:26,297] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:09:26,297] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000099
+[2018-08-08 01:09:26,298] INFO(zj.Cheng): disconnect from thrift2...
+[2018-08-08 01:28:46,608] INFO(zj.Cheng): connected to thrift2 at ip=127.0.0.1,port=9090
+[2018-08-08 01:28:46,646] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,647] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000000
+[2018-08-08 01:28:46,676] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,678] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000001
+[2018-08-08 01:28:46,684] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,686] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000002
+[2018-08-08 01:28:46,697] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,697] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000003
+[2018-08-08 01:28:46,707] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,708] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000004
+[2018-08-08 01:28:46,719] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,720] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000005
+[2018-08-08 01:28:46,732] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,732] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000006
+[2018-08-08 01:28:46,741] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,741] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000007
+[2018-08-08 01:28:46,754] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,754] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000008
+[2018-08-08 01:28:46,765] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,766] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000009
+[2018-08-08 01:28:46,772] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,773] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000010
+[2018-08-08 01:28:46,789] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,790] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000011
+[2018-08-08 01:28:46,800] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,801] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000012
+[2018-08-08 01:28:46,811] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,811] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000013
+[2018-08-08 01:28:46,820] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,821] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000014
+[2018-08-08 01:28:46,831] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,832] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000015
+[2018-08-08 01:28:46,839] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,840] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000016
+[2018-08-08 01:28:46,845] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,846] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000017
+[2018-08-08 01:28:46,857] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,857] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000018
+[2018-08-08 01:28:46,866] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,866] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000019
+[2018-08-08 01:28:46,875] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,875] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000020
+[2018-08-08 01:28:46,880] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,881] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000021
+[2018-08-08 01:28:46,887] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,887] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000022
+[2018-08-08 01:28:46,898] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,898] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000023
+[2018-08-08 01:28:46,904] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,904] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000024
+[2018-08-08 01:28:46,913] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,913] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000025
+[2018-08-08 01:28:46,921] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,922] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000026
+[2018-08-08 01:28:46,927] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,927] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000027
+[2018-08-08 01:28:46,935] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,935] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000028
+[2018-08-08 01:28:46,941] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,941] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000029
+[2018-08-08 01:28:46,952] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,953] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000030
+[2018-08-08 01:28:46,960] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,961] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000031
+[2018-08-08 01:28:46,967] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,967] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000032
+[2018-08-08 01:28:46,983] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,984] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000033
+[2018-08-08 01:28:46,997] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:46,997] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000034
+[2018-08-08 01:28:47,002] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,003] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000035
+[2018-08-08 01:28:47,012] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,012] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000036
+[2018-08-08 01:28:47,023] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,024] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000037
+[2018-08-08 01:28:47,029] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,030] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000038
+[2018-08-08 01:28:47,037] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,038] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000039
+[2018-08-08 01:28:47,045] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,045] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000040
+[2018-08-08 01:28:47,061] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,061] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000041
+[2018-08-08 01:28:47,081] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,082] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000042
+[2018-08-08 01:28:47,091] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,091] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000043
+[2018-08-08 01:28:47,103] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,104] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000044
+[2018-08-08 01:28:47,122] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,122] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000045
+[2018-08-08 01:28:47,134] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,134] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000046
+[2018-08-08 01:28:47,142] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,143] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000047
+[2018-08-08 01:28:47,155] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,156] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000048
+[2018-08-08 01:28:47,182] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,183] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000049
+[2018-08-08 01:28:47,190] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,191] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000050
+[2018-08-08 01:28:47,205] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,205] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000051
+[2018-08-08 01:28:47,217] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,218] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000052
+[2018-08-08 01:28:47,230] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,231] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000053
+[2018-08-08 01:28:47,238] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,239] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000054
+[2018-08-08 01:28:47,246] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,247] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000055
+[2018-08-08 01:28:47,261] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,262] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000056
+[2018-08-08 01:28:47,268] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,270] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000057
+[2018-08-08 01:28:47,282] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,282] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000058
+[2018-08-08 01:28:47,293] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,293] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000059
+[2018-08-08 01:28:47,299] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,299] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000060
+[2018-08-08 01:28:47,312] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,313] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000061
+[2018-08-08 01:28:47,318] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,319] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000062
+[2018-08-08 01:28:47,332] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,333] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000063
+[2018-08-08 01:28:47,342] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,344] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000064
+[2018-08-08 01:28:47,349] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,350] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000065
+[2018-08-08 01:28:47,359] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,359] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000066
+[2018-08-08 01:28:47,381] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,381] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000067
+[2018-08-08 01:28:47,398] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,399] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000068
+[2018-08-08 01:28:47,412] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,412] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000069
+[2018-08-08 01:28:47,433] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,434] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000070
+[2018-08-08 01:28:47,446] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,447] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000071
+[2018-08-08 01:28:47,458] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,459] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000072
+[2018-08-08 01:28:47,474] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,474] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000073
+[2018-08-08 01:28:47,488] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,488] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000074
+[2018-08-08 01:28:47,495] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,495] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000075
+[2018-08-08 01:28:47,516] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,516] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000076
+[2018-08-08 01:28:47,526] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,527] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000077
+[2018-08-08 01:28:47,539] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,540] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000078
+[2018-08-08 01:28:47,554] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,555] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000079
+[2018-08-08 01:28:47,560] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,560] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000080
+[2018-08-08 01:28:47,573] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,573] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000081
+[2018-08-08 01:28:47,587] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,587] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000082
+[2018-08-08 01:28:47,600] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,602] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000083
+[2018-08-08 01:28:47,610] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,611] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000084
+[2018-08-08 01:28:47,630] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,631] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000085
+[2018-08-08 01:28:47,642] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,643] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000086
+[2018-08-08 01:28:47,655] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,655] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000087
+[2018-08-08 01:28:47,671] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,671] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000088
+[2018-08-08 01:28:47,683] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,683] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000089
+[2018-08-08 01:28:47,699] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,700] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000090
+[2018-08-08 01:28:47,707] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,708] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000091
+[2018-08-08 01:28:47,727] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,727] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000092
+[2018-08-08 01:28:47,733] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,733] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000093
+[2018-08-08 01:28:47,739] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,739] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000094
+[2018-08-08 01:28:47,750] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,750] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000095
+[2018-08-08 01:28:47,763] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,763] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000096
+[2018-08-08 01:28:47,773] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,773] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000097
+[2018-08-08 01:28:47,779] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,780] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000098
+[2018-08-08 01:28:47,788] INFO(zj.Cheng): fetch data from hbase and get 1 events
+[2018-08-08 01:28:47,791] INFO(zj.Cheng): succeed to fetch event 09psip_stream001_run9025_file9.dst-00000099
+[2018-08-08 01:28:47,791] INFO(zj.Cheng): disconnect from thrift2...
